@@ -7,8 +7,8 @@ export default function Navbar() {
       <Spacer />
 
       <HStack spacing="20px"> 
-        <Box bg="gray.200" p="10px 15px" borderRadius="50%">M</Box>
-        <Text>mario@netninja.dev</Text>
+        <Box bg="gray.200" p="10px 15px" borderRadius="50%">TZ</Box>
+        <Text>Tolipov Ziyovuddin</Text>
         <Button colorScheme="purple">Logout</Button>
       </HStack>
     </Flex>
